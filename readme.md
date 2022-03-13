@@ -1,8 +1,8 @@
-# Veterinary clinic application
+# Veterinary Clinic Managemnt System
 ***
-**Short description:**
+**Description:**
 
-Application used to store and manage patients in a veterinary clinic
+Application used to store and manage patients in a veterinary clinic. Patients are stored in a .csv file, user interface done with Qt 
 
 ***
 **Features:**
