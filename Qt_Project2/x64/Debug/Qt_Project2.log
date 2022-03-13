@@ -1,0 +1,4 @@
+﻿  Reading Qt configuration (C:/Qt/5.14.2/msvc2017_64/bin/qmake)
+  PatientRepository.cpp
+C:\Users\adebr\OneDrive\Desktop\Qt_Project2\Qt_Project2\PatientRepository.cpp(74): warning C4715: 'PatientRepository::getPatientAtIndex': not all control paths return a value
+  Qt_Project2.vcxproj -> C:\Users\adebr\OneDrive\Desktop\Qt_Project2\x64\Debug\Qt_Project2.exe
